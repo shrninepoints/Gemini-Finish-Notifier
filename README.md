@@ -1,4 +1,4 @@
-# Gemini Web - Notification Sound 🔔
+# Gemini Finish Notifier 🔔
 
 A lightweight Tampermonkey userscript that plays a notification sound when Google Gemini finishes generating a response.
 
