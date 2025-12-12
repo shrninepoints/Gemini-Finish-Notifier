@@ -4,15 +4,10 @@ A lightweight Tampermonkey userscript that plays a notification sound when Googl
 
 Useful for multi-tasking so you don't have to stare at the screen waiting for long answers.
 
-## Features
-- **Zero Configuration:** Works immediately upon installation.
-- **Robust Detection:** Uses specific icon selectors to accurately detect when Gemini stops "thinking."
-- **Customizable:** Easily change the volume or swap the sound file in the script settings.
-
 ## How to Install
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser (Chrome, Edge, Firefox, etc.).
-2. **[Click here to install the script](gemini-notifier.user.js)** (GitHub will detect the `.user.js` file and ask to install it).
+2. **[Click here](gemini-notifier.user.js)** and click the 'RAW' buttom on top right in the pop up page to install the script.
 3. Refresh your Gemini tab.
 
 ## Configuration
