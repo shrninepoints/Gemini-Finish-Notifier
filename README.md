@@ -6,8 +6,8 @@ Useful for multi-tasking so you don't have to stare at the screen waiting for lo
 
 ## How to Install
 
-1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser (Chrome, Edge, Firefox, etc.).
-2. **[Click here](gemini-notifier.user.js)** and click the 'RAW' buttom on top right in the pop up page to install the script.
+1. Install the [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension for your browser (Chrome, Edge, Firefox, etc.).
+2. **[Click here](gemini-notifier.user.js)** and click the 'RAW' buttom on top right to install the script.
 3. Refresh your Gemini tab.
 
 ## Configuration
